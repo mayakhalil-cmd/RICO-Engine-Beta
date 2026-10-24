@@ -11,6 +11,8 @@ TouchDesigner or to another computer on your network. Plug in a homemade
 controller and use it everywhere.
 
 [![Watch the RICO Engine preview](https://img.youtube.com/vi/nZg4tgeFwy8/maxresdefault.jpg)](https://www.youtube.com/watch?v=nZg4tgeFwy8)
+*Click to watch the preview on YouTube.*
+
 
 ## Download
 
@@ -60,6 +62,11 @@ controller and use it everywhere.
 - Color grading with curves, levels and .cube LUTs
 - An audio lab and a multitrack sound editor
 - Projection mapping with surfaces, masks and lens gobos
+  
+
+   <img src="GoboPrint.JPG" alt="A 3D-printed projector gobo made in RICO, next to the slicer preview" width="600">
+
+  *A mask cut from a photo, sliced and printed as a gobo, all inside RICO.*
 
 ## Feedback and bugs
 
