@@ -10,6 +10,8 @@ Blender or a parameter in Houdini. Send the visuals you make in RICO to
 TouchDesigner or to another computer on your network. Plug in a homemade
 controller and use it everywhere.
 
+[![Watch the RICO Engine preview](https://img.youtube.com/vi/nZg4tgeFwy8/maxresdefault.jpg)](https://www.youtube.com/watch?v=nZg4tgeFwy8)
+
 ## Download
 
 **[Get the latest installer from Releases](../../releases/latest)**
